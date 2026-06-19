@@ -1,0 +1,15 @@
+body {
+    background-color: darkblue;
+    background-image: linear-gradient(to bottom, darkblue, navy);
+    background-repeat: no-repeat;
+    background-position: top center;
+    font-family: Arial, sans-serif;
+    color: white
+}
+
+.page-header {
+    background-image: linear-gradient(to right, purple, coral);
+    border-radius: 16px
+    text-align: center;
+    color: : white
+}
